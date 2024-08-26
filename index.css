@@ -1,0 +1,71 @@
+body{
+    background: linear-gradient(120deg, #ffffff60, #b097c7f7);
+}
+
+header{
+    background-color: papayawhip;
+    font:300px;
+    height: 130px;
+    width: AUTO;
+}
+h1{
+    padding-top: 15px;
+    padding-bottom: 0;
+    margin-bottom: 30px;
+    font-size:55px;
+    clear: none;
+}
+.logo{
+    float: left;
+    height: 130px;
+    width: 130px;
+}
+.navbar{
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.nav{
+    font-size:17px;
+    text-decoration: none;
+}
+.log-in{
+    display:flex;
+    justify-content: flex-end;
+    gap:10px;
+}
+.in{
+    text-decoration: none;
+    text-align: end;
+}
+.main-flex{
+    display: inline-flex;
+    justify-content: center;
+    flex-direction:column;
+}
+.section-container{
+    display: flex;
+    width: auto;
+    padding: 10px;
+    margin: 1px;
+    flex-wrap: wra;
+}
+.holder-basic{
+    padding: 5px;
+    margin:5px;
+    width: 80%;
+    height: auto;
+}
+
+.image-position{
+    width: 200px;
+    height: 200px;
+    padding-left: 30px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+h3{
+    margin-top:0;
+    padding-top: 0;
+    text-align: center; 
+}
